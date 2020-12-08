@@ -1,2 +1,2 @@
-# BounceOff
-Can use to make any two sprites bounce off.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
